@@ -1,3 +1,5 @@
+" installation du gestionnaire de plugin : https://github.com/junegunn/vim-plug
+
 call plug#begin('~/.vim/plugged')
 
 
